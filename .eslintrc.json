@@ -1,0 +1,14 @@
+{
+	"env": {
+		"browser": true,
+		"qunit": true
+	},
+	"globals": {
+		"mate": true
+	},
+	"rules": {
+		"quotes": ["error", "single"],
+		"curly": ["error", "multi", "consistent"],
+		"no-alert": ["error"]
+	}
+}
